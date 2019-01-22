@@ -1,0 +1,13 @@
+.genralHeading{
+    width: 100%;
+    height: 50px;
+    padding-top: 9px;
+    background: aquamarine;
+}
+.underContent{
+    width: 100%;
+    height: 100px;
+    display: none;
+    /* margin-top: 17px; */
+    background: rgba(0, 0, 0, .5);
+}
